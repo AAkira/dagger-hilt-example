@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DaggerHiltExample</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="first_fragment_hello">Hello first fragment</string>
+    <string name="second_fragment_hello">Hello second fragment. Arg: %1$s</string>
+</resources>
